@@ -1,4 +1,5 @@
 # ConnectQueue
+Original Creator Link - https://github.com/Re2team/connectqueue
 ---
 Easy to use queue system for FiveM with:
 - Simple API
